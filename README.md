@@ -1,4 +1,4 @@
-![logo](https://github.com/Deepanshu-Patil/Deepanshu-Patil/blob/main/240_F_368564471_EqRJ8dneMmAeLjApJv6nBKPaV7SnmjIr.jpg)
+![logo](https://github.com/Deepanshu-Patil/Deepanshu-Patil/blob/main/d6h0i32-15f2929e-0015-44de-a2c9-59d30e2923f8.gif)
 <h1 align="center">Hi 👋, I'm Deepanshu Patil</h1>
 <h3 align="center">I converts raw data into actionable insights.</h3>
 
